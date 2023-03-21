@@ -6,8 +6,6 @@ I'm Ella Edwards, I am From Alabama andI'm a college student at Athens State Uni
 
 
 
-# 💫 About Me:
-I am currently working on my computer science degree and a minor in cybersecurity <br>. I am currently learning C++ and I also know some phython. 
 
 
 ## 🌐 Socials:
