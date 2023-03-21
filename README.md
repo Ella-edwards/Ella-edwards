@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+
+Hi I'm Ella Edwards, I am From Alabama and im a college student at Athens State University working on my computer science degree. I am currently learning C++ and I also have some background in phython. when i get out of college I would like to get a job in cybersecurity. 
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
