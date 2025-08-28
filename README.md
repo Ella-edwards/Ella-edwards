@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Ella Edwards, I am From Alabama and I'm a college student at Athens State University working on my computer science degree, with a minor in math and cybersecurity. I am currently learning C++ and I also have some background in phython. When I get out of college I would like to get a full time job in cybersecurity. 
+I'm Ella , I am From Alabama and I'm a college student at Athens State University working on my computer science degree
 -->
 
 
